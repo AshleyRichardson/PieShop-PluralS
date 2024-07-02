@@ -1,0 +1,14 @@
+C:\Users\adlen\OneDrive\Desktop\PieShop-PluralS\PieShop-PluralS\obj\Debug\net8.0\PieShop-PluralS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adlen\OneDrive\Desktop\PieShop-PluralS\PieShop-PluralS\obj\Debug\net8.0\PieShop-PluralS.AssemblyInfoInputs.cache
+C:\Users\adlen\OneDrive\Desktop\PieShop-PluralS\PieShop-PluralS\obj\Debug\net8.0\PieShop-PluralS.AssemblyInfo.cs
+C:\Users\adlen\OneDrive\Desktop\PieShop-PluralS\PieShop-PluralS\obj\Debug\net8.0\PieShop-PluralS.csproj.CoreCompileInputs.cache
+C:\Users\adlen\OneDrive\Desktop\PieShop-PluralS\PieShop-PluralS\bin\Debug\net8.0\PieShop-PluralS.exe
+C:\Users\adlen\OneDrive\Desktop\PieShop-PluralS\PieShop-PluralS\bin\Debug\net8.0\PieShop-PluralS.deps.json
+C:\Users\adlen\OneDrive\Desktop\PieShop-PluralS\PieShop-PluralS\bin\Debug\net8.0\PieShop-PluralS.runtimeconfig.json
+C:\Users\adlen\OneDrive\Desktop\PieShop-PluralS\PieShop-PluralS\bin\Debug\net8.0\PieShop-PluralS.dll
+C:\Users\adlen\OneDrive\Desktop\PieShop-PluralS\PieShop-PluralS\bin\Debug\net8.0\PieShop-PluralS.pdb
+C:\Users\adlen\OneDrive\Desktop\PieShop-PluralS\PieShop-PluralS\obj\Debug\net8.0\PieShop-PluralS.dll
+C:\Users\adlen\OneDrive\Desktop\PieShop-PluralS\PieShop-PluralS\obj\Debug\net8.0\refint\PieShop-PluralS.dll
+C:\Users\adlen\OneDrive\Desktop\PieShop-PluralS\PieShop-PluralS\obj\Debug\net8.0\PieShop-PluralS.pdb
+C:\Users\adlen\OneDrive\Desktop\PieShop-PluralS\PieShop-PluralS\obj\Debug\net8.0\PieShop-PluralS.genruntimeconfig.cache
+C:\Users\adlen\OneDrive\Desktop\PieShop-PluralS\PieShop-PluralS\obj\Debug\net8.0\ref\PieShop-PluralS.dll
