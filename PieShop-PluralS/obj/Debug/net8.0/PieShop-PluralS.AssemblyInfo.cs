@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PieShop-PluralS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6489736c0042cf58d46410fd308151f91d7c4a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PieShop-PluralS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PieShop-PluralS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
